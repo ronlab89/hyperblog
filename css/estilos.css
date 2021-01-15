@@ -24,11 +24,9 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
-<<<<<<< HEAD
 .post {
     background-color: white;
     padding: 1em;
-=======
 .container {
     width: 70%;
     padding: 1em;
@@ -44,5 +42,4 @@ body {
     text-align: center;
     color: white;
     font-weight: bold;
->>>>>>> footer
 }
