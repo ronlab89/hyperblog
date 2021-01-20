@@ -26,9 +26,10 @@ body {
     font-size: 1.2em !important;
 }
 .post {
-    background-color: white;
-    padding: 1em;
-    min-height: 400px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 3em;
+    min-height: 330px;
 }
 .container {
     width: 90%;
